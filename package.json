@@ -1,0 +1,11 @@
+{
+  "name": "cors-thing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jabster28/cors-thing.git",
+  "author": "Jabster28 <justynboyer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cors-anywhere": "^0.4.3"
+  }
+}
